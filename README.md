@@ -5,8 +5,8 @@
 go to the root of the project
 run :
 
-`python3 -m venv ./venv`
-`source venv/bin/activate`
+`python3 -m venvv ./venvv`
+`source venvv/bin/activate`
 `python3 -m pip install -r requirements.txt`
 
 and you're good to go !
