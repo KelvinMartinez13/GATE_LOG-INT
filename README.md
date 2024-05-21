@@ -14,4 +14,4 @@ and you're good to go !
 you can cd to the django project and run 
 `python3 manage.py runserver`
 
-then go to 127.0.0.0:8000 to see your app
+then go to 127.0.0.1:8000 to see your app
